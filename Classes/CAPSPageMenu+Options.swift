@@ -45,3 +45,4 @@ public enum CAPSPageMenuOption {
     case centerMenuItems(Bool)
     case hideTopMenuBar(Bool)
 }
+
